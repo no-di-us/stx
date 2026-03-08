@@ -1,1 +1,18 @@
-
+{
+  "name": "NODI",
+  "symbol": "NODI",
+  "description": "NODI is the Non-Transferable power token for the Space Tradex ecosystem. NODI is used for creating smart contract manifest and searching for manifests in the ΩLedger.",
+  "image": "https://no-di-us.github.io/stx/images/nodi-logo.png",  // replace with real image URL (512x512 PNG recommended)
+  "external_url": "https://nodi.us",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://no-di-us.github.io/stx/images/nodi-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": null
+  }
+}
